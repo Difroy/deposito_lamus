@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\bin\Debug\net9.0\Esercizio.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\bin\Debug\net9.0\Esercizio.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\bin\Debug\net9.0\Esercizio.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\bin\Debug\net9.0\Esercizio.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\bin\Debug\net9.0\Esercizio.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\refint\Esercizio.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\Esercizio.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\Esercizio\obj\Debug\net9.0\ref\Esercizio.dll
