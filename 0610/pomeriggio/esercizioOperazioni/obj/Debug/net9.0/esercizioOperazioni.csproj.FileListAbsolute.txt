@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\bin\Debug\net9.0\esercizioOperazioni.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\bin\Debug\net9.0\esercizioOperazioni.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\bin\Debug\net9.0\esercizioOperazioni.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\bin\Debug\net9.0\esercizioOperazioni.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\bin\Debug\net9.0\esercizioOperazioni.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\refint\esercizioOperazioni.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\esercizioOperazioni.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\pomeriggio\esercizioOperazioni\obj\Debug\net9.0\ref\esercizioOperazioni.dll
