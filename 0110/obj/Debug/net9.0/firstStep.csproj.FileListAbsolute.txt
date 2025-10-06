@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\bin\Debug\net9.0\firstStep.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\bin\Debug\net9.0\firstStep.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\bin\Debug\net9.0\firstStep.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\bin\Debug\net9.0\firstStep.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\bin\Debug\net9.0\firstStep.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\refint\firstStep.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\ref\firstStep.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\firstStep\obj\Debug\net9.0\firstStep.sourcelink.json
