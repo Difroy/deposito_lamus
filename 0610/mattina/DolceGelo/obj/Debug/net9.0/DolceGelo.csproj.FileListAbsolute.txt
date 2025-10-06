@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\bin\Debug\net9.0\DolceGelo.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\bin\Debug\net9.0\DolceGelo.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\bin\Debug\net9.0\DolceGelo.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\bin\Debug\net9.0\DolceGelo.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\bin\Debug\net9.0\DolceGelo.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\refint\DolceGelo.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\DolceGelo.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\0610\mattina\DolceGelo\obj\Debug\net9.0\ref\DolceGelo.dll

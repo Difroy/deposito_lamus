@@ -21,6 +21,9 @@ class DolceGelo
 
         double totale = 0;
         int totalePalline = 0;
+        //int contatoreOrdini = 0;
+        List<(string Gusto, int Quantita, double Prezzo)> dettagliOrdine = new List<(string, int, double)>();
+
 
 
         while (true)
@@ -47,33 +50,64 @@ class DolceGelo
                 continue;
             }
 
+             dettagliOrdine.Add((
+                Gusto: gusti[indiceGusto], 
+                Quantita: quantita, 
+                Prezzo: prezzi[indiceGusto]
+            ));
+
             double prezzoGusto = CalcolaTotale(indiceGusto, quantita, prezzi);
             totale += prezzoGusto;
             totalePalline += quantita;
-
-            Console.WriteLine($"\nAggiunto: {quantita}x {gusti[indiceGusto]} = €{prezzoGusto:F2}\n");
-
+            //contatoreOrdini = +1;
         }
-        
-    
-        static void StampaMenu(string[] gusti, double[] prezzi)
+        if (totalePalline > 0)
         {
-            Console.WriteLine("\n===== MENU GELATERIA =====");
-            for (int i = 0; i < gusti.Length; i++)
+            Console.WriteLine("\n===== RIEPILOGO ORDINE =====");
+            Console.WriteLine("--- Dettagli: ---");
+            foreach (var dettaglio in dettagliOrdine)
             {
-                Console.WriteLine($"[{i}] {gusti[i]} - €{prezzi[i]:F2} a pallina");
+                double costoRiga = dettaglio.Quantita * dettaglio.Prezzo;
+                Console.WriteLine($"- {dettaglio.Quantita}x {dettaglio.Gusto} (€{dettaglio.Prezzo:F2}/cad.) - Costo: €{costoRiga:F2}");
             }
-        }
+            Console.WriteLine("-----------------");
+            Console.WriteLine($"Totale palline: {totalePalline}");
+            Console.WriteLine($"Subtotale: €{totale:F2}");
 
-        static double CalcolaTotale(int gusto, int quantita, double[] prezzi)
+            if (totale > 10)
+            {
+                double sconto = totale * 0.10;
+                double totaleFinale = totale - sconto;
+                Console.WriteLine($"Sconto (10%): -€{sconto:F2}");
+                Console.WriteLine($"TOTALE FINALE: €{totaleFinale:F2}");
+            }
+            else
+            {
+                Console.WriteLine($"TOTALE FINALE: €{totale:F2}");
+            }
+
+            Console.WriteLine("\nGrazie per il tuo acquisto! Arrivederci!");
+        }
+        else
         {
-            return prezzi[gusto] * quantita;
+            Console.WriteLine("\nNessun ordine effettuato. Arrivederci!");
         }
-
-
-
     }
 
 
-
+    static void StampaMenu(string[] gusti, double[] prezzi)
+    {
+        Console.WriteLine("\n===== MENU GELATERIA =====");
+        for (int i = 0; i < gusti.Length; i++)
+        {
+            Console.WriteLine($"[{i}] {gusti[i]} - €{prezzi[i]:F2} a pallina");
+        }
+    }
+    static double CalcolaTotale(int gusto, int quantita, double[] prezzi)
+    {
+        return prezzi[gusto] * quantita;
+    }
 }
+
+
+
