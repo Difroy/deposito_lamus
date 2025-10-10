@@ -13,7 +13,7 @@
         int num2 = int.Parse(Console.ReadLine());
 
         int somma = op.Somma(num1, num2);
-        op.StampaRisultato("Somma", somma);
+        op.StampaRisultato("Somma",somma);
         int prodotto = op.Moltiplicazione(num1, num2);
         op.StampaRisultato("Prodotto", prodotto);
 
