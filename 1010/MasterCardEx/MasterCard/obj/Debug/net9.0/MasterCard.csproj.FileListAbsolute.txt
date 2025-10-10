@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\bin\Debug\net9.0\MasterCard.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\bin\Debug\net9.0\MasterCard.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\bin\Debug\net9.0\MasterCard.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\bin\Debug\net9.0\MasterCard.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\bin\Debug\net9.0\MasterCard.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\refint\MasterCard.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\MasterCard.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\MasterCardEx\MasterCard\obj\Debug\net9.0\ref\MasterCard.dll
