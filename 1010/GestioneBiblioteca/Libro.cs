@@ -15,7 +15,7 @@ public class Libro : Prodotto
         //  Override del metodo astratto
         public override void MostraDettagli()
         {
-            Console.WriteLine($"\n📚 LIBRO");
+            Console.WriteLine($"\n LIBRO");
             Console.WriteLine($"   Titolo: {Titolo}");
             Console.WriteLine($"   Autore: {Autore}");
             Console.WriteLine($"   Anno di pubblicazione: {AnnoPublicazione}");

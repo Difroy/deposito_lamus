@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\bin\Debug\net9.0\GestioneBiblioteca.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\bin\Debug\net9.0\GestioneBiblioteca.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\bin\Debug\net9.0\GestioneBiblioteca.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\bin\Debug\net9.0\GestioneBiblioteca.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\bin\Debug\net9.0\GestioneBiblioteca.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\refint\GestioneBiblioteca.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\GestioneBiblioteca.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\gestioneBiblioteca\obj\Debug\net9.0\ref\GestioneBiblioteca.dll

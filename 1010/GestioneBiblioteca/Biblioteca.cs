@@ -14,7 +14,7 @@ namespace GestioneBiblioteca
         public void AggiungiProdotto(Prodotto prodotto)
         {
             catalogo.Add(prodotto);
-            Console.WriteLine($"\n✓ {prodotto.GetTipo()} aggiunto al catalogo!");
+            Console.WriteLine($"\n {prodotto.GetTipo()} aggiunto al catalogo!");
         }
 
         public void MostraTuttiProdotti()
