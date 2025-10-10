@@ -1,0 +1,10 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronico\obj\Debug\net9.0\DispositivoElettronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronico\obj\Debug\net9.0\DispositivoElettronico.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronico\obj\Debug\net9.0\DispositivoElettronico.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronico\obj\Debug\net9.0\DispositivoElettronico.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronico\obj\Debug\net9.0\DispositivoElettronico.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronicoEsercizio\obj\Debug\net9.0\DispositivoElettronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronicoEsercizio\obj\Debug\net9.0\DispositivoElettronico.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronicoEsercizio\obj\Debug\net9.0\DispositivoElettronico.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronicoEsercizio\obj\Debug\net9.0\DispositivoElettronico.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\DispositivoElettronicoEsercizio\obj\Debug\net9.0\DispositivoElettronico.sourcelink.json

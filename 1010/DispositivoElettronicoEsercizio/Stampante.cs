@@ -1,7 +1,8 @@
-public class Stampante : DispositivoElettronico
+
+public class Stampante : Dispositivo
 {
     public int Risoluzione { get; set; } //DPI
-    public bool Colore { get; set; } //Stampa a colori o in bianco e nero
+    public bool Colore { get; set; }
 
     public Stampante(string modello, int risoluzione, bool colore)
         : base(modello)

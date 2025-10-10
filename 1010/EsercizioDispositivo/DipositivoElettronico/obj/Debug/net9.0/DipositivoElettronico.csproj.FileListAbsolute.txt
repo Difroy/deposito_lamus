@@ -1,0 +1,15 @@
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.AssemblyInfoInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.AssemblyInfo.cs
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.csproj.CoreCompileInputs.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.sourcelink.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\bin\Debug\net9.0\DipositivoElettronico.exe
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\bin\Debug\net9.0\DipositivoElettronico.deps.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\bin\Debug\net9.0\DipositivoElettronico.runtimeconfig.json
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\bin\Debug\net9.0\DipositivoElettronico.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\bin\Debug\net9.0\DipositivoElettronico.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\refint\DipositivoElettronico.dll
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.pdb
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\DipositivoElettronico.genruntimeconfig.cache
+C:\Users\unifr\Documents\Froy\Lavoro\Programmazione\CSharp\repository_lamus\deposito_lamus\1010\EsercizioDispositivo\DipositivoElettronico\obj\Debug\net9.0\ref\DipositivoElettronico.dll

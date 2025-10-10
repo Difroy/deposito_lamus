@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\DispositivoElettronico.csproj": {}
+    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\EsercizioDispositivo\\DipositivoElettronico\\DipositivoElettronico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\DispositivoElettronico.csproj": {
+    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\EsercizioDispositivo\\DipositivoElettronico\\DipositivoElettronico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\DispositivoElettronico.csproj",
-        "projectName": "DispositivoElettronico",
-        "projectPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\DispositivoElettronico.csproj",
+        "projectUniqueName": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\EsercizioDispositivo\\DipositivoElettronico\\DipositivoElettronico.csproj",
+        "projectName": "DipositivoElettronico",
+        "projectPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\EsercizioDispositivo\\DipositivoElettronico\\DipositivoElettronico.csproj",
         "packagesPath": "C:\\Users\\unifr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\obj\\",
+        "outputPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\EsercizioDispositivo\\DipositivoElettronico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\unifr\\AppData\\Roaming\\NuGet\\NuGet.Config"

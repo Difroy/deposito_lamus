@@ -1,6 +1,6 @@
-public class Computer : DispositivoElettronico
+public class Computer : Dispositivo
 {
-    
+
     public string SistemaOperativo { get; set; }
     public int MemoriaRAM { get; set; } //GB
 

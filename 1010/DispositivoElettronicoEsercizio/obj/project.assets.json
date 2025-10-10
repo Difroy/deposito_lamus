@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\DispositivoElettronico.csproj",
+      "projectUniqueName": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronicoEsercizio\\DispositivoElettronico.csproj",
       "projectName": "DispositivoElettronico",
-      "projectPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\DispositivoElettronico.csproj",
+      "projectPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronicoEsercizio\\DispositivoElettronico.csproj",
       "packagesPath": "C:\\Users\\unifr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronico\\obj\\",
+      "outputPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\DispositivoElettronicoEsercizio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\unifr\\AppData\\Roaming\\NuGet\\NuGet.Config"
