@@ -53,9 +53,16 @@ namespace GestioneBiblioteca
             }
         }
 
+        public abstract void MostraDettagli();
 
-
-
+        public virtual string GetTipo()
+        {
+            return "Prodotto generico";
+        }
+        public string GetInfo()
+        {
+            return $"{Titolo} ({annoPubblicazione}) - €{Prezzo:F2}";
+        }
     }
 
 
