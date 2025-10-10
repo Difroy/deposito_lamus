@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\GestioneBiblioteca\\GestioneBiblioteca.csproj": {}
+    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\MasterCardEx\\MasterCard\\MasterCard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\GestioneBiblioteca\\GestioneBiblioteca.csproj": {
+    "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\MasterCardEx\\MasterCard\\MasterCard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\GestioneBiblioteca\\GestioneBiblioteca.csproj",
-        "projectName": "GestioneBiblioteca",
-        "projectPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\GestioneBiblioteca\\GestioneBiblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\MasterCardEx\\MasterCard\\MasterCard.csproj",
+        "projectName": "MasterCard",
+        "projectPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\MasterCardEx\\MasterCard\\MasterCard.csproj",
         "packagesPath": "C:\\Users\\unifr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\GestioneBiblioteca\\obj\\",
+        "outputPath": "C:\\Users\\unifr\\Documents\\Froy\\Lavoro\\Programmazione\\CSharp\\repository_lamus\\deposito_lamus\\1010\\MasterCardEx\\MasterCard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\unifr\\AppData\\Roaming\\NuGet\\NuGet.Config"
